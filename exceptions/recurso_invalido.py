@@ -1,0 +1,2 @@
+class RecursoInvalido(Exception):
+    pass
